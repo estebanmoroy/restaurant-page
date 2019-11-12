@@ -8,5 +8,7 @@ All made with JavaScript DOM elements
 ### Concepts learned:
 
 ES6 Modules
+
 Setting up a WebPack project
+
 npm packages
